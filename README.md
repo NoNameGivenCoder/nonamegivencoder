@@ -1,4 +1,4 @@
-### Hi there 👋, my name's NoNameGiven
+### Hi there 👋, my name is NoNameGiven
 #### Web, Backend, and Game Developer
 Hello, I'm NoNameGiven. Ever since I was young I've always had a fascination for technology, and wondering how the video games I played worked, and functioned. 
 
