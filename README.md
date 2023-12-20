@@ -6,9 +6,9 @@ Eventually, I learned about the Unity framework, which allowed me to unleash my 
 
 One day, I was offered to help on a small wiki for some of my friends. That's where I gained a lot of knowledge and experience on building websites using HTML and CSS.
 
-The website's I made were pretty boring though, and I wanted to add something more dynamic to them. That's where I discovered Javascript, (And by extension, Node.js).
+The website's I made were pretty boring though, and I wanted to add something more dynamic to them. That's where I discovered Javascript, *(And by extension, Node.js)*.
 
-And that's where I am as of now. My goal in the future is to hopefully expand my knowledge on web development, and get back into game creation. (Oh, and to also be consistent with my Github commits..)
+And that's where I am as of now. My goal in the future is to hopefully expand my knowledge on web development, and get back into game creation. *(Oh, and to also be consistent with my Github commits..)*
 
 Thank you for reading my README! 👋
 
