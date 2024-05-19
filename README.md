@@ -8,15 +8,15 @@ One day, I was offered to help on a small wiki for some of my friends. That's wh
 
 The website's I made were pretty boring though, and I wanted to add something more dynamic to them. That's where I discovered Javascript, *(And by extension, Node.js)*.
 
-And that's where I am as of now. My goal in the future is to hopefully expand my knowledge on web development, and get back into game creation. *(Oh, and to also be consistent with my Github commits..)*
+And that's where I am as of now. My goal in the future is to hopefully expand my knowledge on web development, and get back into game development. *(Oh, and to also be consistent with my Github commits..)*
 
 Thank you for reading my README! 👋
 
 Skills: HTML | CSS | Javascript | C# | Web Development | Backend Development | Unity Game Development
 
-- 🔭 I’m currently working on Aquamarine 
-- 🌱 I’m currently learning C++ 
-- 📫 How to reach me: Discord DM's (@nonamegiven) 
+- 🔭 I’m currently working on Aquamarine
+- 🌱 I'm currently learning C++ whenever I get the chance
+- 📫 You can reach me on Discord: chaytonstclair
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I actually have a name!
 - 🌐 [Come visit my website!](https://nonamegiven.xyz)
