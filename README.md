@@ -14,14 +14,11 @@ Thank you for reading my README! 👋
 
 Skills: HTML | CSS | Javascript | C# | Web Development | Backend Development | Unity Game Development
 
-- 🔭 I’m currently working on Aquamarine
+- 🔭 I’m currently working on [RIO(e)](https://github.com/NoNameGivenCoder/rio-e)
 - 🌱 I'm currently learning C++ whenever I get the chance
 - 📫 You can reach me on Discord: chaytonstclair
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I actually have a name!
 - 🌐 [Come visit my website!](https://nonamegiven.xyz)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NoNameGivenCoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@n0nameg1ven)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NoNameGivenCoder&show_icons=true&count_private=true)  
